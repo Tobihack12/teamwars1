@@ -1,0 +1,4 @@
+name: teamwars
+version: '1.0-SNAPSHOT'
+main: org.tobi_hack.teamwars.Teamwars
+api-version: '1.21'
